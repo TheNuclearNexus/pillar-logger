@@ -1,1 +1,1 @@
-{"employees":[{"name":"Gunter","all_work":null},{"name":"Yavanni","all_work":null},{"name":"Jachro","all_work":null}]}
+{"employees":[{"name":"Gunter","all_work":null},{"name":"Yavanni","all_work":null},{"name":"Jachro","all_work":null},{"name":"Logan","all_work":[{"start_time":"2019-08-23T00:04:11.4173201-04:00","end_time":"2019-08-23T00:04:11.4173201-04:00","total_time":"00:00:00","on_what":"Added employee!"},{"start_time":"2019-08-23T00:04:01.8959006-04:00","end_time":"2019-08-23T00:04:18.524642-04:00","total_time":"00:00:16.6297415","on_what":null}]}]}
